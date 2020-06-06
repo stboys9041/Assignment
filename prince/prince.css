@@ -1,0 +1,12 @@
+h3{
+    text-align: center;
+    display: block;
+    margin: 200px auto;
+    width: 40%;
+    color: blueviolet;
+    background-color: chartreuse;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 40px;
+    padding: 20x 10px;
+}
