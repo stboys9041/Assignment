@@ -10,3 +10,11 @@ h3{
     font-size: 40px;
     padding: 20x 10px;
 }
+@media ( max-width:1000px) and (min-width:800px){
+    h3{
+        color: blanchedalmond;
+    }
+}
+*{
+    background-color: aquamarine;
+}
